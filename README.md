@@ -1,4 +1,4 @@
-# India_GDP_PerCapita
+# India_NSDP_Geopandas
 In this repository, i try to visualize data using geopandas to create India Map using dataset from kaggle. I will attached the link at the end of this readme and i already upload that file in this repository already.
 The dataset contain the growth of NSDP Per Capita for every States in India from:
 - 1996-97 by nominal
