@@ -4,7 +4,7 @@ The dataset contain the growth of NSDP Per Capita for every States in India from
 - 1996-97 by nominal
 - 2000-01 by nominal
 - 2005-06 by nominal
-- 2010-2020 (detailed in every year)
+- 2010-2020 by nominal (detailed in every year)
 - 2000-10 by percentage
 - 2010-19 by percentage
 
